@@ -35,7 +35,7 @@ dependencies = [
     # Coincurve v21.0.0 is broken with python 3.14.
     # See issue: https://github.com/ofek/coincurve/issues/219
     "coincurve>=20.0.0,<21.0.0;python_version=='3.14'",
-    "eth-abi>=5.0.0,<6.0.0",
+    "eth-abi>=5.0.0,<7.0.0",
     "httpx",
     "pycryptodome<4",
     "requests",
